@@ -1,0 +1,15 @@
+/Users/connerthompson/Projects/Lab09/Lab09/bin/Debug/net7.0/Lab09
+/Users/connerthompson/Projects/Lab09/Lab09/bin/Debug/net7.0/Lab09.deps.json
+/Users/connerthompson/Projects/Lab09/Lab09/bin/Debug/net7.0/Lab09.runtimeconfig.json
+/Users/connerthompson/Projects/Lab09/Lab09/bin/Debug/net7.0/Lab09.dll
+/Users/connerthompson/Projects/Lab09/Lab09/bin/Debug/net7.0/Lab09.pdb
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.csproj.AssemblyReference.cache
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.AssemblyInfoInputs.cache
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.AssemblyInfo.cs
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.csproj.CoreCompileInputs.cache
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.dll
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/refint/Lab09.dll
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.pdb
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/Lab09.genruntimeconfig.cache
+/Users/connerthompson/Projects/Lab09/Lab09/obj/Debug/net7.0/ref/Lab09.dll
